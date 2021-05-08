@@ -4,4 +4,4 @@ https://sidhant2709.github.io/html-css-travel-website/
 
 # HEADER
 
-![Image of Yaktocat](Screenshots/Header.png)
+![Image of Header](Screenshots/Header.png)
